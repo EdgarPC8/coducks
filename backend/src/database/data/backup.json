@@ -1,0 +1,44 @@
+{
+  "roles": [
+    {
+      "id": 1,
+      "rol": "administrador"
+    },
+    {
+      "id": 2,
+      "rol": "profesional"
+    },
+    {
+      "id": 3,
+      "rol": "empresa"
+    },
+    {
+      "id": 4,
+      "rol": "programador"
+    }
+  ],
+  "users": [
+    {
+      "userId": 1,
+      "username": "1106011420",
+      "password": "$2b$10$9U46i4SBu0ymOwiKROxwLuQGL5mM87MiDPrqpgYcgNFnr/m2.mPnG",
+      "ci": 1106011420,
+      "firstName": "Patricio",
+      "secondName": "Alexander",
+      "firstLastName": "Briceño",
+      "secondLastName": "Sarango",
+      "photo": null
+    },
+    {
+      "userId": 2,
+      "username": "1104661598",
+      "password": "$2b$10$/zTVaMzSX4IN7IZwHMT6N.65kCTb5srVCQBRzCZg9MYAJS9mAxD8.",
+      "ci": 1104661598,
+      "firstName": "Edgar",
+      "secondName": "Patricio",
+      "firstLastName": "Torres",
+      "secondLastName": "Condolo",
+      "photo": "1708296769449-435172097.jpg"
+    }
+  ]
+}
